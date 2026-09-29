@@ -1,0 +1,11 @@
+# NAME: Meta Muse (base rules)
+# CHECKED: 2026-09-29
+# SOURCE: Public JavaScript assets at https://muse.ai/
+# Static source inspection only; not end-to-end traffic verified.
+# Select a policy in Loon's Remote Rule configuration.
+
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN,auth.meta.com
+DOMAIN,agent.meta.ai
